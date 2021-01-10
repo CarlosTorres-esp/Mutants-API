@@ -80,8 +80,6 @@ class checkMutant {
     }
 }
 
-
-
 //Test DNA
 //DNA matrix for tests
 const adn1 = [
